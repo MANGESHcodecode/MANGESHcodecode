@@ -1,14 +1,17 @@
-this is a code 
-
-
-
-
-
-
-
-
-
-
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
 
 
 #include <iostream>
